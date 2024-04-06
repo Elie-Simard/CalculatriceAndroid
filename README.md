@@ -2,6 +2,13 @@
 
 Ce dépôt contient le code source d'une calculatrice Android développée avec Android Studio. Cette calculatrice offre des fonctionnalités de base pour effectuer des opérations arithmétiques telles que l'addition, la soustraction, la multiplication, la division, ainsi que l'utilisation de parenthèses et de nombres décimaux.
 
+De plus, elle permet également d'utiliser le clavier numérique pour manipuler les opérations.
+
+## Captures d'écran :
+
+https://github.com/Elie-Simard/CalculatriceAndroid/assets/104814268/17fab54f-1a80-4a70-af07-581ff23da902
+
+
 ## Fonctionnalités principales :
 - Boutons numériques pour saisir des chiffres de 0 à 9.
 - Opérations arithmétiques telles que l'addition, la soustraction, la multiplication et la division.
@@ -13,9 +20,6 @@ Ce dépôt contient le code source d'une calculatrice Android développée avec 
 - Langage de programmation : Java
 - Environnement de développement : Android Studio
 - Bibliothèque de calculs mathématiques : Math Parser
-
-## Captures d'écran :
-- Ajoutez des captures d'écran de l'interface utilisateur de la calculatrice pour montrer son apparence et ses fonctionnalités.
 
 ## Comment contribuer :
 1. Clonez le dépôt localement sur votre machine.
