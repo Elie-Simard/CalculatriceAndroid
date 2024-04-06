@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Change the parent theme to a descendant of Theme.AppCompat -->
+    <style name="Theme.ExampleCalcul" parent="Theme.AppCompat">
+        <!-- Customize other attributes if needed -->
+
+    </style>
+</resources>
